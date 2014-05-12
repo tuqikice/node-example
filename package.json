@@ -1,0 +1,30 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "Example app.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuqikice/node.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "tuqikice",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuqikice/node/issues"
+  },
+  "homepage": "https://github.com/tuqikice/node",
+  "dependencies": {
+    "express": "~4.2.0",
+    "logfmt": "~1.1.2"
+  },
+  "engines": {
+	"node": "0.10.x"
+  }
+}
